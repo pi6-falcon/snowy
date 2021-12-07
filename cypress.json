@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://localhost:8080/#/",
+  "env": {
+    "username": "teste",
+    "password": "teste"
+  },
+  "ignoreTestFiles": [
+    "*/api/.js",
+    "*/components/chart/.js"
+  ]
+}
